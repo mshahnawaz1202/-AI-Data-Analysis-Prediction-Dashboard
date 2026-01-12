@@ -100,9 +100,5 @@ This modular architecture ensures that each part of the application has a single
 
 ---
 
-## 🌟 Next Steps
 
-- Add more advanced visualization options (e.g., heatmaps, 3D plots).
-- Integrate more complex machine learning models (e.g., XGBoost, LightGBM).
-- Implement user authentication and the ability to save analysis sessions.
-- Deploy the application to a cloud service like Streamlit Community Cloud or Heroku.
+
